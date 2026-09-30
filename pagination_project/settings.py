@@ -29,7 +29,7 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env('DEBUG')
 
-ALLOWED_HOSTS = ['https://pagination-project-z1zo.onrender.com','localhost']
+ALLOWED_HOSTS = ['pagination-project-z1zo.onrender.com','localhost']
 
 
 # Application definition
